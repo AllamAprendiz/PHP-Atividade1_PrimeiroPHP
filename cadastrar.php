@@ -1,0 +1,3 @@
+<?php
+    echo "CADASTRO REALIZADO COM SUCESSO";
+?>
